@@ -1,2 +1,6 @@
-# slotMachineGame-CLI-
-Welcome to the JavaScript CLI Slot Machine Game project! This console-based game offers a simple yet entertaining slot machine experience right in your command line interface. Enjoy the excitement of spinning reels, without the need for a graphical interface.
+<h1>slotMachineGame (CLI)</h1>
+<h3>**(Disclaimer:- This project was built only for learning purpose. I don't support or promote gambling.)**</h3>
+
+This is a simple command line based slot machine game built using pure JavaScript (Vanilla JS). <br>
+Built this to implement all the basic javascript in one project. <br>
+
